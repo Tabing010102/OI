@@ -1,7 +1,7 @@
 #OI
 
 >仅为个人OI Coding的进程  
->各个OnlineJudge:  
+>各个OnlineJudge以及特点:  
 
 >>[COGS](http://218.28.19.228)  
 >>[TYVJ](http://tyvj.cn)  
