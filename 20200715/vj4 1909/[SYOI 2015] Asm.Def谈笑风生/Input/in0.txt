@@ -1,0 +1,7 @@
+6
+1 ab
+2 ab
+1 abc
+1 adc
+2 ad
+2 abc
