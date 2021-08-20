@@ -1,12 +1,14 @@
 **历史遗留问题，不存在意义**  
 **不仅是OI，这次把杂七杂八的和竞赛相关的都传上来了**  
+  
+**已退坑，有缘再见**
 
 **老README**
 
 >仅为个人OI Coding的进程  
 >各个OnlineJudge以及特点:  
 
->>[COGS](http://218.28.19.228)  
+>>[COGS](http://218.28.19.228:8080)  
 >>[TYVJ](http://tyvj.cn)  
 >>[VIJOS](http://vijos.org)  
 >>[LUOGU](http://www.luogu.org)  
